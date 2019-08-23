@@ -4,3 +4,6 @@
 [submodule "NBASchedule"]
 	path = NBASchedule
 	url = git@github.com:riders994/NBASchedule.git
+[submodule "leagueSQL"]
+	path = leagueSQL
+	url = git@github.com:riders994/leagueSQL.git
