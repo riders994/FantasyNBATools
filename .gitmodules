@@ -7,3 +7,6 @@
 [submodule "leagueSQL"]
 	path = leagueSQL
 	url = git@github.com:riders994/leagueSQL.git
+[submodule "NBAEloGraphs"]
+	path = NBAEloGraphs
+	url = https://github.com/riders994/NBAEloGraphs.git
