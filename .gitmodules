@@ -10,3 +10,6 @@
 [submodule "NBAEloGraphs"]
 	path = NBAEloGraphs
 	url = https://github.com/riders994/NBAEloGraphs.git
+[submodule "YahooScraperElo"]
+	path = YahooScraperElo
+	url = https://github.com/riders994/YahooScraperElo.git
