@@ -1,0 +1,3 @@
+[submodule "Fantasy_Draft_Lottery"]
+	path = Fantasy_Draft_Lottery
+	url = git@github.com:riders994/Fantasy_Draft_Lottery.git
