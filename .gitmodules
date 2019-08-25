@@ -13,3 +13,6 @@
 [submodule "YahooScraperElo"]
 	path = YahooScraperElo
 	url = https://github.com/riders994/YahooScraperElo.git
+[submodule "WojBot"]
+	path = WojBot
+	url = https://github.com/riders994/WojBot.git
