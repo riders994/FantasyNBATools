@@ -16,3 +16,6 @@
 [submodule "WojBot"]
 	path = WojBot
 	url = https://github.com/riders994/WojBot.git
+[submodule "eloCalc"]
+	path = eloCalc
+	url = git@github.com:riders994/eloCalc.git
