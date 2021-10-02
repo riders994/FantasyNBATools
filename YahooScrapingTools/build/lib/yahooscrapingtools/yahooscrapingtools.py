@@ -3,7 +3,7 @@ import json
 import datetime
 from yahoo_oauth import OAuth2
 import yahoo_fantasy_api as yfa
-from leagueutils import LeagueUtils
+from .leagueutils import LeagueUtils
 
 
 def get_year():
@@ -98,7 +98,7 @@ class YahooScrapingTools:
 if __name__ == '__main__':
     test = YahooScrapingTools()
     test.login()
-    t = test.get_leagues(2021)
+    t = test.get_leagues(2019)
     s = test.get_scoreboards(week=1)
     # for l in t:
     #     print(l)
